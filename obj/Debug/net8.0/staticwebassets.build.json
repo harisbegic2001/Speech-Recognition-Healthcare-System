@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RqhJ2OkHk2FFfhmydAdNBbUyhIIFBb8OSjfJDdMJu+0=",
+  "Source": "SpeechRecognitionHealthcareSystem",
+  "BasePath": "_content/SpeechRecognitionHealthcareSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

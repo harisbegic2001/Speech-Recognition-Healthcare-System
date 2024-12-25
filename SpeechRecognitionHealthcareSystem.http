@@ -1,0 +1,6 @@
+@SpeechRecognitionHealthcareSystem_HostAddress = http://localhost:5229
+
+GET {{SpeechRecognitionHealthcareSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
